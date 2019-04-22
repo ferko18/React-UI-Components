@@ -1,0 +1,25 @@
+.Footer{
+    width: 100%;
+    height: 40px;
+    border: solid rgb(226, 225, 225) 1px;
+    margin-top: 9px;
+    border-radius: 5px;
+    /* display: flex; */
+    
+}
+
+.Footer i{
+    display: inline-block;
+    /* border: solid blue 1px; */
+    margin-right: 70px;
+    margin-top: 10px;
+    
+}
+
+.Footer i .Share {
+    margin-left: 5Px;
+}
+
+.Footer i .Likes {
+    margin-left: 5Px;
+}

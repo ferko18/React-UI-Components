@@ -21,12 +21,12 @@ a {
    
 }
 
-.CardContent h4, p, footer{
+.CardContent h4, p, .cardfooter{
     margin-left: 10px;
     
 }
 
-.CardContent footer{
+.CardContent .cardfooter{
     color: gray;
 }
 
