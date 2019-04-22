@@ -4,8 +4,8 @@
 */
 .App{
   margin: 0 auto;
-  height: 600px;
-  width: 600px;
+  /* height: 600px; */
+  width: 700px;
   
   border: solid red 1pX;
 }
