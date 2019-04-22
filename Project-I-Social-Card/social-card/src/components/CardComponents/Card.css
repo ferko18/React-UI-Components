@@ -1,1 +1,13 @@
 /* All styles for your Card Components live here */
+
+.CardContainer{
+    border: 1px solid blue;
+    width: 80% ;
+    height: 400px;
+    margin-left: 11.5%;
+}
+
+.CardBanner img{
+    width: 560px;
+    border-radius: 5px  5px  0px  0px;
+}
