@@ -1,3 +1,5 @@
+
+/* display styling  */
 .CalculatorDisplay {
     height: 120px;
     width: 100%;
@@ -7,4 +9,12 @@
     justify-content: flex-end;
     align-items: center;
     font-size: 1.8rem;
-}
+   
+} 
+
+.CalculatorDisplay h1{
+        margin-right: 20px;
+        
+    }
+
+/* end of display styling  */
