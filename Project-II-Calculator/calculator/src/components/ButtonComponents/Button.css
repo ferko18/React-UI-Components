@@ -39,11 +39,18 @@
 
 
 .NumberButton{
-    width: 95px;;
+    width: 25%;;
     height: 95px;
     outline: 1px solid gray;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 3rem;
     
+}
+
+.NumberButtonc{
+    width: 100%;
+    display: flex;
+    /* border: solid blue 1pX; */
 }
