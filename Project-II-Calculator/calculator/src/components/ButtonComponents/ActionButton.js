@@ -1,10 +1,14 @@
 import React from 'react';
 import './Button.css';
+import NumberButton from './NumberButton'
 
-const ActionButton = (props) => {
+const ActionButton = () => {
+    
     return (
       <div className="ActionButton">
-         <h3>{props.actionProp}</h3>
+        <div class="clear">clear</div>
+        <div class="division">&#247;</div>
+
       </div>
     );
   };

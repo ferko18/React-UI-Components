@@ -1,12 +1,49 @@
 .ActionButton{
     height: 95Px;
-    width: 75%;
+    width:100%;
     outline: 1px solid gray;
     display: flex;
     justify-content: center;
     align-items: center;
+   
+  
+   
 }
+
+.ActionButton .clear{
+    width: 75%;;
+    height: 95px;
+    outline: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+.ActionButton .division{
+    width: 25%;;
+    height: 95px;
+    outline: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #A0001E;
+    font-size: 4rem;
+    color: white;
+
+}
+
 
 .ActionButton h3{
  font-size: 2.5rem;
+}
+
+
+.NumberButton{
+    width: 95px;;
+    height: 95px;
+    outline: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
