@@ -1,0 +1,10 @@
+.CalculatorDisplay {
+    height: 120px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 1.8rem;
+}
