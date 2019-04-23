@@ -54,3 +54,8 @@
     display: flex;
     /* border: solid blue 1pX; */
 }
+
+.redButton{
+    background-color: #A0001E;
+    color: white;
+}
